@@ -14,7 +14,6 @@ The project is ideal for learning HCS concepts, building decentralized chat appl
 ✅ Configurable for Hedera Testnet
 # Steps to Run
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/hedera-messaging-service.git
 cd hedera-messaging-service
 2️⃣ Install Dependencies
 npm install
